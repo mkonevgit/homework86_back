@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "607c06317520a94498462d8b"
+  },
+  "name": "A Momentary Lapse of Reason",
+  "year": "1987",
+  "artist": {
+    "$oid": "607c0224d981e4073ce23e28"
+  },
+  "image": "n4eNH4_b4J5kpU-bf6UUW.jpg",
+  "__v": 0,
+  "published": true,
+  "user": {
+    "$oid": "608fdd974c61ed0decad0ce8"
+  },
+  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur ea exercitationem fugit quibusdam quis sequi vero. Eligendi minus, vero! A deserunt ducimus, eaque neque porro voluptatum. Accusamus deserunt illum officia sunt. Animi delectus dolore dolorem eos error harum illum impedit incidunt iste maxime numquam, pariatur perspiciatis, placeat quas quia quod quos ratione sit suscipit vitae. Ab animi deleniti dicta distinctio iste laborum nostrum possimus. Accusantium architecto aut beatae consectetur cum cupiditate, debitis dicta doloribus error eum impedit itaque laborum laudantium, libero magni maiores minima molestiae nemo nisi nulla odio placeat quam quod sed ullam velit veniam? Eaque eveniet nemo totam.",
+
+},{
+  "_id": {
+    "$oid": "607c1360bdf2d84564ec34b5"
+  },
+  "name": "21",
+  "artist": {
+    "$oid": "607c007dd981e4073ce23e22"
+  },
+  "year": "2010",
+  "image": "pZ9kbB-XqfB0X7iLh6fW1.jpg",
+  "__v": 0,
+  "published": true,
+  "user": {
+    "$oid": "608fdd7d4c61ed0decad0ce7"
+  },
+  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur ea exercitationem fugit quibusdam quis sequi vero. Eligendi minus, vero! A deserunt ducimus, eaque neque porro voluptatum. Accusamus deserunt illum officia sunt. Animi delectus dolore dolorem eos error harum illum impedit incidunt iste maxime numquam, pariatur perspiciatis, placeat quas quia quod quos ratione sit suscipit vitae. Ab animi deleniti dicta distinctio iste laborum nostrum possimus. Accusantium architecto aut beatae consectetur cum cupiditate, debitis dicta doloribus error eum impedit itaque laborum laudantium, libero magni maiores minima molestiae nemo nisi nulla odio placeat quam quod sed ullam velit veniam? Eaque eveniet nemo totam.",
+
+},{
+  "_id": {
+    "$oid": "607c1874bdf2d84564ec34b9"
+  },
+  "name": "…But Seriously",
+  "artist": {
+    "$oid": "607c1758bdf2d84564ec34b8"
+  },
+  "year": "2014",
+  "image": "qL-XHoV_gdumEBLXDq-Am.jpg",
+  "__v": 0,
+  "published": true,
+  "user": {
+    "$oid": "608fdd974c61ed0decad0ce8"
+  },
+  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur ea exercitationem fugit quibusdam quis sequi vero. Eligendi minus, vero! A deserunt ducimus, eaque neque porro voluptatum. Accusamus deserunt illum officia sunt. Animi delectus dolore dolorem eos error harum illum impedit incidunt iste maxime numquam, pariatur perspiciatis, placeat quas quia quod quos ratione sit suscipit vitae. Ab animi deleniti dicta distinctio iste laborum nostrum possimus. Accusantium architecto aut beatae consectetur cum cupiditate, debitis dicta doloribus error eum impedit itaque laborum laudantium, libero magni maiores minima molestiae nemo nisi nulla odio placeat quam quod sed ullam velit veniam? Eaque eveniet nemo totam.",
+
+},{
+  "_id": {
+    "$oid": "607c1c01bdf2d84564ec34bc"
+  },
+  "name": "The Wall",
+  "artist": {
+    "$oid": "607c0224d981e4073ce23e28"
+  },
+  "year": "1979",
+  "image": "uUNaVwhZzbFQ0Ybz6Jz0d.jpg",
+  "__v": 0,
+  "published": true,
+  "user": {
+    "$oid": "608fdd7d4c61ed0decad0ce7"
+  },
+  "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur ea exercitationem fugit quibusdam quis sequi vero. Eligendi minus, vero! A deserunt ducimus, eaque neque porro voluptatum. Accusamus deserunt illum officia sunt. Animi delectus dolore dolorem eos error harum illum impedit incidunt iste maxime numquam, pariatur perspiciatis, placeat quas quia quod quos ratione sit suscipit vitae. Ab animi deleniti dicta distinctio iste laborum nostrum possimus. Accusantium architecto aut beatae consectetur cum cupiditate, debitis dicta doloribus error eum impedit itaque laborum laudantium, libero magni maiores minima molestiae nemo nisi nulla odio placeat quam quod sed ullam velit veniam? Eaque eveniet nemo totam.",
+
+},{
+  "_id": {
+    "$oid": "60a31879d309f636d42a3c61"
+  },
+  "published": true,
+  "name": "Звезда по имени Солнце",
+  "info": "«Звезда́ по и́мени Со́лнце» — седьмой студийный альбом советской рок-группы «Кино», вышедший 29 августа 1989 года. Последний прижизненный альбом Виктора Цоя. Запись чернового варианта альбома происходила у Георгия Гурьянова, где располагалась домашняя студия группы.",
+  "year": "1989",
+  "artist": {
+    "$oid": "60a317ded309f636d42a3c60"
+  },
+  "user": {
+    "$oid": "608fdd974c61ed0decad0ce8"
+  },
+  "image": "2-EJF1uTWDA_JAFc-kXRs.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a3203bd309f636d42a3c67"
+  },
+  "published": true,
+  "name": "Группа крови",
+  "info": "«Гру́ппа кро́ви» — шестой студийный альбом советской рок-группы «Кино», вышедший 5 января 1988 года. Альбом получил широкую известность как в Советском Союзе, так и за рубежом. Выход альбома принёс группе быстрый рост популярности, частые приглашения из разных стран и огромное число поклонников.",
+  "year": "1988",
+  "artist": {
+    "$oid": "60a317ded309f636d42a3c60"
+  },
+  "user": {
+    "$oid": "608fdd974c61ed0decad0ce8"
+  },
+  "image": "vfIBGWOLFV29H-0hJZb5c.jpg",
+  "__v": 0
+}]

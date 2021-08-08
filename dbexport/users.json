@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "608fdd7d4c61ed0decad0ce7"
+  },
+  "username": "user1",
+  "password": "$2b$10$0LZA.ja.E2h2ADffryOKV.YiSCZ/vGmcvFuKLu.IR5uz3iQeVvAsS",
+  "token": "up7P3J3d0VLTLMYhWsyMx",
+  "__v": 0,
+  "display": "John",
+  "phone": "+77056783211",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "608fdd974c61ed0decad0ce8"
+  },
+  "username": "user2",
+  "password": "$2b$10$RMAlgYggTSMfA/7nnvyCgunWBimuAghndm20q/0EUgFTHW9Wxq/wq",
+  "token": "dtVHK9gGQPqaaEzJNfFf4",
+  "__v": 0,
+  "display": "Michael",
+  "phone": "+77773456789",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "60a308625cc8a4315086e05e"
+  },
+  "role": "admin",
+  "username": "admin",
+  "password": "$2b$10$Lryh6GAlDTyF39x9OJyqt.Mjve.gQ3.mSlY.LjX3uhcnWIgbC1wc6",
+  "display": "Admin",
+  "phone": "7 (777) 517-77-17",
+  "token": "-dejiXfaZ5mrVU04ehAzN",
+  "__v": 0
+}]
