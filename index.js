@@ -9,7 +9,7 @@ const app = express();
 const mongoose = require("mongoose");
 const {checkUnusedFilesAllModels} = require("./app/utils");
 
-const port = 8000;
+const port = 8001;
 
 const run = async () => {
   await mongoose.connect("mongodb://localhost:27017/musicDB",
